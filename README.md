@@ -24,7 +24,7 @@
 <li>Inside the form element, you are presented with a button with id of submit to submit all the inputs</li>
 <li>Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!</li>
 </ul>
-<p>Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS</p>
+<h5>Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS</h5>
 
 <h2>Tests</h2>
 <ul>
